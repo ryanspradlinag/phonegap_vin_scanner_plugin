@@ -21,6 +21,12 @@ id reference into Scanner.java before building their projects.
         version="1.0.1">
 
   <name>Bees4Honey</name>
+  <description>Bees4Honey VIN Scanner</description>
+  <license></license>
+  <keywords></keywords>
+  <repo>https://github.com/ryanspradlinag/phonegap_vin_scanner_plugin.git</repo>
+  <issue></issue>
+
     <js-module src="www/b4hvinscanner.js">
       <clobbers target="VINBarcodeScanner.scan" />
     </js-module>
