@@ -17,8 +17,8 @@ id reference into Scanner.java before building their projects.
 
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="com.bees4honey.vinscanner"
-        version="1.0.0">
+        id="com.fordapprehost.bees4honey.vinscanner"
+        version="1.0.1">
 
   <name>Bees4Honey</name>
     <js-module src="www/b4hvinscanner.js">
